@@ -1,5 +1,6 @@
 # Hola, soy @JonaikerUPS 👋
-![5b18318a57c6142901da2df326e0b4ed](https://github.com/JonaikerUPS/JonaikerUPS/assets/161357077/c1d1b87c-a1fb-4b16-8802-3bb82844c4ac)
+![image](https://github.com/JonaikerUPS/JonaikerUPS/assets/161357077/12453b05-c399-48dc-ad2c-6daf09958976)
+
 ## Sobre mí
 
 Soy un apasionado programador con experiencia en [Lenguajes de Programación, Marcos de Trabajo, etc.]. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
